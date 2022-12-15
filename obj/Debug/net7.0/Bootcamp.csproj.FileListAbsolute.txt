@@ -1,0 +1,15 @@
+C:\Users\lm700\OneDrive\Área de Trabalho\Bootcamp\bin\Debug\net7.0\Bootcamp.exe
+C:\Users\lm700\OneDrive\Área de Trabalho\Bootcamp\bin\Debug\net7.0\Bootcamp.deps.json
+C:\Users\lm700\OneDrive\Área de Trabalho\Bootcamp\bin\Debug\net7.0\Bootcamp.runtimeconfig.json
+C:\Users\lm700\OneDrive\Área de Trabalho\Bootcamp\bin\Debug\net7.0\Bootcamp.dll
+C:\Users\lm700\OneDrive\Área de Trabalho\Bootcamp\bin\Debug\net7.0\Bootcamp.pdb
+C:\Users\lm700\OneDrive\Área de Trabalho\Bootcamp\obj\Debug\net7.0\Bootcamp.csproj.AssemblyReference.cache
+C:\Users\lm700\OneDrive\Área de Trabalho\Bootcamp\obj\Debug\net7.0\Bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lm700\OneDrive\Área de Trabalho\Bootcamp\obj\Debug\net7.0\Bootcamp.AssemblyInfoInputs.cache
+C:\Users\lm700\OneDrive\Área de Trabalho\Bootcamp\obj\Debug\net7.0\Bootcamp.AssemblyInfo.cs
+C:\Users\lm700\OneDrive\Área de Trabalho\Bootcamp\obj\Debug\net7.0\Bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\lm700\OneDrive\Área de Trabalho\Bootcamp\obj\Debug\net7.0\Bootcamp.dll
+C:\Users\lm700\OneDrive\Área de Trabalho\Bootcamp\obj\Debug\net7.0\refint\Bootcamp.dll
+C:\Users\lm700\OneDrive\Área de Trabalho\Bootcamp\obj\Debug\net7.0\Bootcamp.pdb
+C:\Users\lm700\OneDrive\Área de Trabalho\Bootcamp\obj\Debug\net7.0\Bootcamp.genruntimeconfig.cache
+C:\Users\lm700\OneDrive\Área de Trabalho\Bootcamp\obj\Debug\net7.0\ref\Bootcamp.dll
